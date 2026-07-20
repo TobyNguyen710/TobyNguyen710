@@ -27,6 +27,7 @@ Computer Science student graduating June 2026, building full-stack web apps, com
 ## Featured Projects
 
 - 🎯 **[SoccerNet AI](https://github.com/TobyNguyen710/SoccerNet-Weights-Malding)** — GPU-accelerated CV pipeline (YOLOv8 + NAFNet + ResNet34) that reads jersey numbers from soccer broadcast footage.
+- 🗂️ **[Digital Work Artifact Mining System](https://github.com/COSC-499-W2025/capstone-project-team-10)** — capstone project: a Python desktop app that parses zipped project folders and extracts structured insights from code, documents, and media.
 - 🎮 **[Aurelia](https://github.com/notbaopham/Aurelia)** — a Unity/C# platformer with modular player states, enemy AI, and a full combat system. [Play it in the browser](https://dawnlurkers.itch.io/aurelia).
 - 💬 **[Accord](https://github.com/ColinLefter/Accord)** — a real-time Discord clone built with React + MongoDB.
 
@@ -34,5 +35,5 @@ See the full breakdown, work experience, and a contact form on my [portfolio sit
 
 ## GitHub Stats
 
-![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyNguyen710&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyNguyen710&layout=compact&hide_border=true)
+![Toby's GitHub stats](https://github-readme-stats-sigma-nine.vercel.app/api?username=TobyNguyen710&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=TobyNguyen710&layout=compact&hide_border=true)
