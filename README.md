@@ -32,8 +32,3 @@ Computer Science student graduating June 2026, building full-stack web apps, com
 - 💬 **[Accord](https://github.com/ColinLefter/Accord)** — a real-time Discord clone built with React + MongoDB.
 
 See the full breakdown, work experience, and a contact form on my [portfolio site](https://toby-nguyen.vercel.app).
-
-## GitHub Stats
-
-![Toby's GitHub stats](https://github-readme-stats-sigma-nine.vercel.app/api?username=TobyNguyen710&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=TobyNguyen710&layout=compact&hide_border=true)
